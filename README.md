@@ -138,7 +138,7 @@ git clone https://github.com/your-username/CodeAlpha_Hangman-Game.git
 ### 2. Open the project folder
 
 ```bash
-cd CodeAlpha_Hangman-Game
+CodeAlpha_Hangman-Game
 ```
 
 ### 3. Run the Python program
