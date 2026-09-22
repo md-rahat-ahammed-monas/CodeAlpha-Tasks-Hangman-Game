@@ -1,6 +1,6 @@
 # CodeAlpha_Hangman-Game
 
-A simple Hangman game developed using Python as part of a Python programming practice/project.
+A simple Hangman game developed using Python as part of the CodeAlpha Python Programming Internship.
 
 ## Project Overview
 
